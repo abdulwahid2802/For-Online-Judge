@@ -1,0 +1,7 @@
+c:\users\abduvokhid\source\repos\OJupload\OJupload\bin\Debug\OJupload.exe.config
+c:\users\abduvokhid\source\repos\OJupload\OJupload\bin\Debug\OJupload.exe
+c:\users\abduvokhid\source\repos\OJupload\OJupload\bin\Debug\OJupload.pdb
+c:\users\abduvokhid\source\repos\OJupload\OJupload\obj\Debug\OJupload.csprojResolveAssemblyReference.cache
+c:\users\abduvokhid\source\repos\OJupload\OJupload\obj\Debug\OJupload.csproj.CoreCompileInputs.cache
+c:\users\abduvokhid\source\repos\OJupload\OJupload\obj\Debug\OJupload.exe
+c:\users\abduvokhid\source\repos\OJupload\OJupload\obj\Debug\OJupload.pdb
